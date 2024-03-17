@@ -29,7 +29,7 @@ As a first-generation immigrant college student, born in Bangladesh and raised i
   - Employed data techniques like exploratory data analysis, summary statistics, and data visualization to gain understanding of global business strategy.
 
 
-## Certifications
+# Certifications
 - **Certification Name**: Data Analytics- Excel Specialist ([Link to Certification](https://www.credential.net/ba0c3cfd-bd4a-46e8-9f70-b21d21c5f83c#gs.6igghc))
   - **Publisher**: The Global Tech Experience
 
