@@ -39,7 +39,6 @@ As a first-generation immigrant college student, born in Bangladesh and raised i
 # Volunteering
 
 ## Student Volunteer at Step by Step Centre for Special Needs Qatar
-- **Duration**: Oct 2019 (1 week)
 - **Responsibilities**: 
   - Played, taught, and worked closely with children with special needs.
   - Provided compassionate interaction and tailored support.
