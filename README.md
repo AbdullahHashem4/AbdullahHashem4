@@ -40,7 +40,7 @@ As a first-generation immigrant college student, born in Bangladesh and raised i
 
 ## Student Volunteer at Step by Step Centre for Special Needs Qatar
 - **Responsibilities**: 
-  - Played, taught, and worked closely with children with special needs.
+  - Worked closely with children of special needs and administered various games and educational activities.
   - Provided compassionate interaction and tailored support.
   - Aimed to foster a positive and inclusive environment for the children to thrive and reach their full potential.
 
