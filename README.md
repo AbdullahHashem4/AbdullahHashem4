@@ -1,6 +1,7 @@
 # About Me
 
-Hey there! 👋 I'm Abdullah Hashem, a passionate individual who thrives on leveraging technology to solve complex problems and drive business growth. My specialties lie in Data Analytics, Data Visualization, and Game Development, where I focus on delivering impactful outcomes and optimizing business portfolios.
+Hey there! 👋 
+I'm Abdullah Hashem, a passionate individual who thrives on leveraging technology to solve complex problems and drive business growth. My specialties lie in Data Analytics, Data Visualization, and Game Development, where I focus on delivering impactful outcomes and optimizing business portfolios.
 
 ## Background
 
